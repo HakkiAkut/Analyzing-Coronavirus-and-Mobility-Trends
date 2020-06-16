@@ -1,7 +1,7 @@
 # Analyzing-Covid-19-and-Mobility-Trends
 Analyzing Apple Mobility Trends Data https://www.apple.com/covid19/mobility and the covid data https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographicdistribution-covid-19-cases-worldwide in Matlab.
 
-This code answers 4 questions: (NOT UPLOADED YET!)
+This code answers 4 questions: 
 
 a) Is there a correlation between mobility trends and the number of new cases for countries (SPAIN, ENGLAND, GERMANY, TURKEY, USA, SWITZERLAND, EGYPT AND FRANCE)
 
